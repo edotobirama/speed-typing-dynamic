@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-cont {
+    background-image: linear-gradient(to right, #f3eaff, #dac0ff);
+    height: 100%;
+    font-family: Roboto;
+}
+
+.header {
+    color: #690cb0;
+    font-weight: bold;
+    font-size: 52px;
+}
+
+.on-your {
+    color: #3e4c59;
+}
+
+.image {
+    height: 40px;
+    width: 40px;
+}
+
+.card {
+    background-color: #f2ebfe;
+    border-color: #9aa5b1;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.quote {
+    color: #3e4c59;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.sub-btn {
+    background-color: #690cb0;
+    color: #ffffff;
+}
+
+.reset-btn {
+    background-color: #ffffff;
+    margin-left: 30px;
+}
+
+.result {
+    color: #3e4c59;
+    font-weight: bold;
+}
+
+.timerText {
+    font-size: 36px;
+    color: #323f4b;
+}
+
+.spanEle {
+    font-size: 16px;
+    color: #3e4c59;
+}
